@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zxcapital.ai/sitemap.xml
